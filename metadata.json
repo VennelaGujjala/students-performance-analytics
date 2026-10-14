@@ -1,0 +1,6 @@
+{
+  "name": "ewb",
+  "description": "Python, NumPy, and Pandas project for student marks analysis, grading, pass/fail evaluation, and performance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
