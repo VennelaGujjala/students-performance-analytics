@@ -7,10 +7,10 @@
 
 ## 1. Project Title & Student Details
 * **Project Name:** Student Performance Analytics System
-* **Student Name:** `[Your Name Here]` (e.g., John Doe)
-* **Student ID / Roll No:** `[Your Student ID]` (e.g., EWB-PY-2026-042)
+* **Student Name:** Vennela Gujjala
+* **Student ID / Roll No:** EWB-PYAI-2026-1517
 * **Batch / Course:** Python with AI — Batch 2026
-* **Trainer / Mentor:** `[Trainer Name]`
+* **Trainer / Mentor:** Surisetti chandini
 
 ---
 
@@ -200,7 +200,7 @@ Student_ID           Name     Department  Attendance Result
 ---
 
 ## 10. GitHub Repository
-- **Repository URL:** `https://github.com/[YOUR-USERNAME]/student-performance-analytics`
+- **Repository URL:** `https://github.com/VennelaGujjala/student-performance-analytics`
 - **Branch:** `main`
 
 ---
@@ -226,26 +226,5 @@ python main.py
 ### 3. Verify Output Files
 Upon completion, the terminal displays the full formatted report, and a new file named `student_results.csv` will be created in the directory.
 
----
 
-## GitHub Submission Steps for EWB Form
 
-1. **Sign in to GitHub:** Open [github.com](https://github.com) and log in to your account.
-2. **Create New Repository:** Click the `+` button in the top-right corner -> **New repository**.
-   - Repository name: `student-performance-analytics`
-   - Set visibility to **Public**.
-   - Do NOT check "Initialize with README" if you are pushing local files.
-   - Click **Create repository**.
-3. **Push Project Files from Your Computer:**
-   Open terminal in the project folder and run:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial submission: Student Performance Analytics System"
-   git branch -M main
-   git remote add origin https://github.com/[YOUR-USERNAME]/student-performance-analytics.git
-   git push -u origin main
-   ```
-4. **Verify in Browser:** Refresh your GitHub repository page. Check that `main.py`, `functions.py`, `students.csv`, `student_results.csv`, and `README.md` are all present.
-5. **Copy URL:** Copy your repository URL from the browser address bar.
-6. **Submit:** Paste the link into the EWB Course submission Google Form before 15 October 2026.
